@@ -48,6 +48,7 @@ front, so it can be left running all day.
 | `hid_probe.py` | Diagnostic only: tries to read the device via a direct HID handle. Not used by the helper. |
 | `CHANGES.md` | Log of every change made to this computer for this project, with undo steps. |
 | `README.md` | This document. |
+| `LICENSE` | MIT license. |
 
 ---
 
